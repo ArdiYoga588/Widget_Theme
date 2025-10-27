@@ -4,5 +4,5 @@ A new Flutter project.
 
 ## Getting Started
 
-![Tampilan Aplikasi](Hasil tugas 2.PNG)
+![Tampilan Aplikasi](Hasil_tugas_2.PNG)
 
