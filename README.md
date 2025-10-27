@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Hasil Tampilan
 
 ![Tampilan Aplikasi](Hasil_tugas_2.PNG)
 
